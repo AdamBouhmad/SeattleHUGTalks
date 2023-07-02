@@ -6,8 +6,12 @@ labels: talk
 assignees: ''
 
 ---
+<!-- 
+Use the form below to submit a talk to Seattle HUG. Please feel free to submit any talk idea you have so long as it has an association to HashiCorp tooling. 
 
+Once submitted, we will review your talk and notify you a few weeks before the event for which your talk is selected. Talks should be between 15 & 30 minutes in length. Ping us via email (hugs@hashicorp.com) if you have any questions.
 -->
+
 
 **Talk Title:**
 
