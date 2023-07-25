@@ -27,6 +27,7 @@ Once submitted, we will review your talk and notify you a few weeks before the e
 _Please check off the dates in which you would be interested in presenting your talk:_
 
 - [ ] August 2nd, 2023
+
 **Future Dates are TBD based on community feedback** 
 
 By submitting this talk, I acknowledge that:
