@@ -11,12 +11,12 @@
 # SeattleHUGTalks
 Welcome to the Seattle HashiCorp Users Group!
 
-We invite you to share your knowledge and expertise with the broader PNW community. If you have a talk idea related to HashiCorp tooling, we'd love to hear from you! Submit your talk proposal by clicking the button below. 
+We invite you to share your knowledge and expertise with the broader PNW community. If you have a talk idea related to HashiCorp tooling, we'd love to hear from you! To speak at a future event, submit your talk proposal by clicking the button below. 
 
 [![Submit a Talk](https://img.shields.io/badge/Submit%20a%20Talk-Create%20Issue-blue.svg)](https://github.com/AdamBouhmad/SeattleHUGTalks/issues/new/choose)
 
 
-Talks must be between 15 and 30 minutes for us to consider them. Our next event will be on Wednesday, August 2nd at 2211 Elliott Ave # 400, Seattle, WA 98121. For more information visit https://www.meetup.com/seattle-hashicorp-user-group/
+Talks must be between 5 and 30 minutes for us to consider them. Our next event is TBD. For more information visit https://www.meetup.com/seattle-hashicorp-user-group/
 
 If you have questions, please email hugs@hashicorp.com
 
