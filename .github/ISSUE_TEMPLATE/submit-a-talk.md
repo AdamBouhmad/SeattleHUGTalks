@@ -23,10 +23,11 @@ Once submitted, we will review your talk and notify you a few weeks before the e
 
 **Estimated Talk Length: (15-30 min please):**
 
-**Availability:**
+<!-- **Availability:**
 _Please check off the dates in which you would be interested in presenting your talk:_
 
 - [ ] August 2nd, 2023
+-->
 
 **Future Dates are TBD based on community feedback** 
 
