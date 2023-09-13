@@ -16,7 +16,7 @@ We invite you to share your knowledge and expertise with the broader PNW communi
 [![Submit a Talk](https://img.shields.io/badge/Submit%20a%20Talk-Create%20Issue-blue.svg)](https://github.com/AdamBouhmad/SeattleHUGTalks/issues/new/choose)
 
 
-Talks must be between 5 and 30 minutes for us to consider them. Our next event is TBD. For more information visit https://www.meetup.com/seattle-hashicorp-user-group/
+Talks must be between 5 and 30 minutes for us to consider them. Our next event will be October 13th, 2023 at HighSpot Offices in downtown Seattle. For more information visit https://www.meetup.com/seattle-hashicorp-user-group/
 
 If you have questions, please email hugs@hashicorp.com
 
